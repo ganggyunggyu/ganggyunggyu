@@ -18,7 +18,7 @@
 
 # 강경규
 
- * <strong>Software Engineer</strong> @ [Riiid](https://riiid.com/) 
+ * <strong>Software Engineer</strong> 
 <!--   
  * <strong>Ex-Front-end Engineer</strong> @ [MyPlanit](https://todo-mall-sandy.vercel.app/)
   
