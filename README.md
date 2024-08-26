@@ -40,9 +40,9 @@
   </div>
 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summermong&layout=compact" width="310"/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=summermong"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summermong&layout=compact" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganggyunggyu&layout=compact" width="310"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ganggyunggyu"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganggyunggyu&layout=compact" width="300"/>
 
   <div style="display: flex; align-items: center; justify-content: center">
 
