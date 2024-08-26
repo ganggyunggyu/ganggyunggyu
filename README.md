@@ -16,7 +16,17 @@
  * <strong>Blog:</strong> https://velog.io/@qwzx16
 
   <br/>  
+<div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3578E5?style=flat&logo=TypeScript&logoColor=white"/>
+@@ -21,10 +24,12 @@
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=React-query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 
+</div>
+<br />
 
   
 
