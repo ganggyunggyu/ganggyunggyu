@@ -16,6 +16,7 @@
  * <strong>Blog:</strong> https://velog.io/@qwzx16
 
   <br/>  
+  * <strong>LinkedIn:</strong> https://www.linkedin.com/in/gyunggyugang/
 
 <br />
 
