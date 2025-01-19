@@ -3,22 +3,13 @@
 # 강경규
 
  * <strong>Software Engineer</strong> 
-
+ 
+ - <strong>Contact:</strong> qwzx8019@gmail.com
   
-<br/>
-  
- * <strong>Contact:</strong> qwzx8019@gmail.com
+ - <strong>Blog:</strong> https://velog.io/@qwzx16
 
+ - <strong>LinkedIn:</strong> https://www.linkedin.com/in/gyunggyugang/
 
-
- <br/>
-  
- * <strong>Blog:</strong> https://velog.io/@qwzx16
-
-  <br/>  
- * <strong>LinkedIn:</strong> https://www.linkedin.com/in/gyunggyugang/
-
-<br />
 
   
 
