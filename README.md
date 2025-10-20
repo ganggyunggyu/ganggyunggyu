@@ -6,7 +6,7 @@
  
  - <strong>Contact:</strong> qwzx8019@gmail.com
   
- - <strong>Blog:</strong> [https://velog.io/@qwzx16](https://my-blog-ivory-nine.vercel.app/)
+ - <strong>[블로그](https://my-blog-ivory-nine.vercel.app/)</strong> 
 
  - <strong>LinkedIn:</strong> https://www.linkedin.com/in/gyunggyugang
 
