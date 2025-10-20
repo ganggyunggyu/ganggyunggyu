@@ -4,11 +4,11 @@
 
  * <strong>Software Engineer</strong> 
  
- - <strong>Contact:</strong> qwzx8019@gmail.com
+ - <strong>[이메일](qwzx8019@gmail.com)</strong> 
   
  - <strong>[블로그](https://my-blog-ivory-nine.vercel.app/)</strong> 
 
- - <strong>LinkedIn:</strong> https://www.linkedin.com/in/gyunggyugang
+ - <strong>[링크드인](https://www.linkedin.com/in/gyunggyugang)</strong>
 
 
   
