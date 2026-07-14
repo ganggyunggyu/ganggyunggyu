@@ -1,0 +1,72 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">강경규 — Automation, AI, Product Engineering</title>
+  <desc id="description">A dark developer profile banner with green and blue accents.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="40" y1="20" x2="1160" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#111A24"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="68" y1="72" x2="570" y2="255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#3FB950"/>
+    </linearGradient>
+    <linearGradient id="line" x1="760" y1="80" x2="1080" y2="265" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#3FB950" stop-opacity="0.3"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#8B949E" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="28" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="27" stroke="#30363D" stroke-width="2"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1130" cy="38" r="148" fill="#1F6FEB" fill-opacity="0.08"/>
+  <circle cx="1055" cy="325" r="170" fill="#238636" fill-opacity="0.08"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', Arial, sans-serif">
+    <rect x="70" y="52" width="193" height="34" rx="17" fill="#161B22" stroke="#30363D"/>
+    <circle cx="89" cy="69" r="5" fill="#3FB950" filter="url(#glow)"/>
+    <text x="104" y="74" fill="#8B949E" font-size="13" font-weight="600" letter-spacing="1.6">SUWON · KOREA</text>
+
+    <text x="68" y="156" fill="url(#accent)" font-size="58" font-weight="800" letter-spacing="-1.8">강경규</text>
+    <text x="68" y="197" fill="#F0F6FC" font-size="27" font-weight="650">ganggyunggyu</text>
+    <text x="68" y="241" fill="#C9D1D9" font-size="22" font-weight="500">Automation × AI × Product Engineering</text>
+    <text x="68" y="278" fill="#8B949E" font-size="16">Turning repetitive work into reliable, observable systems.</text>
+
+    <g transform="translate(740 72)">
+      <path d="M22 35H126C140 35 148 45 148 59V79C148 93 157 103 171 103H270C284 103 293 113 293 127V151C293 165 302 175 316 175H363" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 9"/>
+
+      <g>
+        <rect x="0" y="10" width="146" height="52" rx="14" fill="#161B22" stroke="#1F6FEB" stroke-width="1.5"/>
+        <circle cx="24" cy="36" r="7" fill="#58A6FF"/>
+        <text x="42" y="41" fill="#F0F6FC" font-size="15" font-weight="700" letter-spacing="1.2">BUILD</text>
+      </g>
+
+      <g>
+        <rect x="145" y="78" width="164" height="52" rx="14" fill="#161B22" stroke="#8957E5" stroke-width="1.5"/>
+        <circle cx="169" cy="104" r="7" fill="#A371F7"/>
+        <text x="187" y="109" fill="#F0F6FC" font-size="15" font-weight="700" letter-spacing="1.2">AUTOMATE</text>
+      </g>
+
+      <g>
+        <rect x="287" y="150" width="154" height="52" rx="14" fill="#161B22" stroke="#238636" stroke-width="1.5"/>
+        <circle cx="311" cy="176" r="7" fill="#3FB950"/>
+        <text x="329" y="181" fill="#F0F6FC" font-size="15" font-weight="700" letter-spacing="1.2">OPERATE</text>
+      </g>
+
+      <text x="40" y="244" fill="#484F58" font-size="12" font-weight="600" letter-spacing="2">SHIP · OBSERVE · ITERATE</text>
+    </g>
+  </g>
+</svg>
